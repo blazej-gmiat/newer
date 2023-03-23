@@ -6,6 +6,7 @@ bold **Sicily is in the central Mediterranean Sea, south of the Italian Peninsul
 
 italic *Sicily has a roughly triangular shape, earning it the name Trinacria. To the north-east, it is separated from Calabria and the rest of the Italian mainland by the Strait of Messina, about 3 km (1.9 mi) wide in the north, and about 16 km (9.9 mi) wide in the southern part.*
 
-quote  >Sicily has a roughly triangular shape, earning it the name Trinacria.
+quote 
+>Sicily has a roughly triangular shape, earning it the name Trinacria.
 
 
