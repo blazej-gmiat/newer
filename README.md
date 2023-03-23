@@ -1,3 +1,2 @@
-# newer
 
-### Sicily
+# Sicily
