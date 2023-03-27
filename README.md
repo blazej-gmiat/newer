@@ -23,3 +23,15 @@ quote
 
 
 :heart_eyes:            :smiley:
+
+
+### Cities in Sicily
+- [ ] Rome
+- [x] Palermo
+- [x] Catania
+- [x] Messina
+- [ ] Naples
+- [ ] Milan
+- [ ] Bologna
+- [ ] Pisa
+
