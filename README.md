@@ -37,9 +37,9 @@ quote
 
 | Year  |  Population |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| First Header  | Second Header |
-| Content Cell  | Content Cell  |
+| 1901  | 3,568,000  |
+|  1936  | 4,000,000   |
+| 1961  | 4,721,000 |
+|  1991  | 4,966,000  |
 |  2019  |  4,969,147  |
 
