@@ -19,16 +19,5 @@ quote
 
 <a href="https://en.wikipedia.org/wiki/Sicily" target="_blank">Sicily on wikipedia</a>
 
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
+![My Remote Image](https://en.wikipedia.org/wiki/Sicily#/media/File:Mt_Etna_and_Catania1.jpg)?dl=0)
 
