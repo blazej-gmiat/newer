@@ -18,5 +18,5 @@ quote
 
 
 <a href="https://en.wikipedia.org/wiki/Sicily" target="_blank">Sicily on wikipedia</a>
-
-![Alt text](url "https://en.wikipedia.org/wiki/Sicily#/media/File:Mt_Etna_and_Catania1.jpg")
+[
+![Alt text](url "https://en.wikipedia.org/wiki/Sicily#/media/File:Mt_Etna_and_Catania1.jpg")](https://en.wikipedia.org/wiki/Sicily#/media/File:Mt_Etna_and_Catania1.jpg)
