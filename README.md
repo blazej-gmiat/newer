@@ -16,3 +16,7 @@ quote
 + Dittaino	105 km (65 mi)
 + Platani	103 km (64 mi)
 
+
+<a href="https://www.google.com/" target="_blank">Google</a>
+
+
