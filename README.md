@@ -17,6 +17,6 @@ quote
 + Platani	103 km (64 mi)
 
 
-<a href="https://en.wikipedia.org/wiki/Sicily" target="_blank">Sicily on wikipedia</a>
+<a href="https://en.wikipedia.org/wiki/Sicily" target="_self">Sicily on wikipedia</a>
 
 
