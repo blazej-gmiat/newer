@@ -19,7 +19,16 @@ quote
 
 <a href="https://en.wikipedia.org/wiki/Sicily" target="_blank">Sicily on wikipedia</a>
 
-```bash
-lala lala 
+```python
+import foobar
+
+# returns 'words'
+foobar.pluralize('word')
+
+# returns 'geese'
+foobar.pluralize('goose')
+
+# returns 'phenomenon'
+foobar.singularize('phenomena')
 ```
 
