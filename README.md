@@ -20,3 +20,6 @@ quote
 <a href="https://en.wikipedia.org/wiki/Sicily" target="_blank">Sicily on wikipedia</a>
 
 ![Mt_Etna_and_Catania1](https://user-images.githubusercontent.com/116813604/228032241-b9293d83-6dec-4532-a6c7-548568b5f3f7.jpg)
+
+
+:heart_eyes:            :smiley:
