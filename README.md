@@ -9,4 +9,10 @@ italic *Sicily has a roughly triangular shape, earning it the name Trinacria. To
 quote 
 >Sicily has a roughly triangular shape, earning it the name Trinacria.
 
+# Rivers of Sicily
++ Salso	144 km (89 mi)
++ Simeto	113 km (70 mi)
++ Belice	107 km (66 mi)
++ Dittaino	105 km (65 mi)
++ Platani	103 km (64 mi)
 
