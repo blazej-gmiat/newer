@@ -19,5 +19,4 @@ quote
 
 <a href="https://en.wikipedia.org/wiki/Sicily" target="_blank">Sicily on wikipedia</a>
 
-![My Remote Image](https://en.wikipedia.org/wiki/Sicily#/media/File:Mt_Etna_and_Catania1.jpg)?dl=0)
-
+<p><img src="/[url](https://en.wikipedia.org/wiki/Sicily#/media/File:Mt_Etna_and_Catania1.jpg)" alt="foo" title="title" /></p>
